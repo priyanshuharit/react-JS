@@ -1,0 +1,25 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "React by nameste react",
+  "main": "jest",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshuharit/react-JS.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Priyanshu Harit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshuharit/react-JS/issues"
+  },
+  "homepage": "https://github.com/priyanshuharit/react-JS#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
