@@ -1,0 +1,36 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "react by namaste-react",
+
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshuharit/react-JS.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Priyanshu Harit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshuharit/react-JS/issues"
+  },
+  "homepage": "https://github.com/priyanshuharit/react-JS#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist":[
+    "last 3 version"
+    
+  ]
+}
