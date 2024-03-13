@@ -16,7 +16,7 @@ const RestaurantCard=(props) =>{
             <h4>{avgRating}</h4>
             <h4 >{locality}</h4>
         </div>
-    );n
+    );
 
 };
 

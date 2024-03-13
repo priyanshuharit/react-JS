@@ -33,7 +33,7 @@
     /* text-align: center; */
     margin-top: 20px;
     padding: 5px;
-    background: #F2EFE5;
+    background: #f0f0f0;
     margin: 5px;
 }
 .res-card:hover{
@@ -58,5 +58,37 @@
 {
     margin: 10px;
     cursor: pointer;
+
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.shimmer-cards{
+    width: 250px;
+    height: 350px;
+    
+    /* border-radius: 1rem; */
+    /* text-align: center; */
+    margin-top: 20px;
+    padding: 5px;
+    background: #f0f0f0;
+    margin: 5px;
+}
+.login{
+
+    padding: 0 20px;
+    right: 1rem;
+    
+    
+    
+    cursor: pointer;
+
+}
+
+.filter{
+    display: flex;
 
 }
